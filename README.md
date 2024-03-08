@@ -3,7 +3,7 @@
 
 - 🔭 Estoy trabajando en **Nor Oriente Express**
 
-- 💬 Preguntame sobre **java,kotlin,jetpack compose, android studio, c# y .NET**
+- 💬 Preguntame sobre **java,kotlin,jetpack compose, android studio, c# ,.NET y VBA**
 
 <h3 align="left">Revisa mi linkedin en:</h3>
 <p align="left">
