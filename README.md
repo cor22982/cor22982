@@ -1,9 +1,9 @@
 <h1 align="center">Soy Mathew Cordero</h1>
-<h3 align="center">Soy un desarrollador de aplicaciones moviles y Web.</h3>
+<h3 align="center">Soy un desarrollador frontend de aplicaciones moviles y Web.</h3>
 
 - 🔭 Estoy trabajando en **Nor Oriente Express**
 
-- 💬 Preguntame sobre **java,kotlin,jetpack compose, android studio, Javascrit y React**
+- 💬 Preguntame sobre **java,kotlin,jetpack compose, flutter,  android studio, Javascrit y React**
 
 **Portafolio**: [Presiona aqui](https://mathew-cordero-aquino.netlify.app)
 
